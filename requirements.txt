@@ -4,3 +4,4 @@ pygame
 ffmpeg
 decorator==4.4.2
 moviepy
+numpy
