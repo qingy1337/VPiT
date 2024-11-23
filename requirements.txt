@@ -3,5 +3,5 @@ pydub
 pygame
 ffmpeg
 decorator==4.4.2
-moviepy
+moviepy==1.0.3
 numpy
